@@ -20972,13 +20972,6 @@
     "repo": "khaldevmedia/obsidian-youtnote"
   },
   {
-    "id": "local-llm-hub",
-    "name": "Local LLM Hub",
-    "author": "TAKESHI MORITA",
-    "description": "Chat with local LLMs (Ollama, LM Studio) with local embeddings RAG, file encryption, edit history, slash commands, and workflow automation. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "takeshy/obsidian-local-llm-hub"
-  },
-  {
     "id": "open-in-claude-code",
     "name": "Open in Claude Code",
     "author": "wepee",
@@ -23742,13 +23735,6 @@
     "author": "liuyangart",
     "description": "Canvas AI Plugin - use Gemini AI in Canvas view, support text / image / node generation. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "liuyangart/obsidian-canvas-banana"
-  },
-  {
-    "id": "gemini-helper",
-    "name": "Gemini Helper",
-    "author": "TAKESHI MORITA",
-    "description": "AI chat, workflow automation, semantic search (RAG), LLM Wiki (OKF), and dashboards with reading memos powered by Google Gemini. Works on both desktop and mobile. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "takeshy/obsidian-gemini-helper"
   },
   {
     "id": "dropdown-vars",
@@ -26894,13 +26880,6 @@
     "repo": "open-obsidian-i18n/i18n-plus"
   },
   {
-    "id": "vault-operator",
-    "name": "Vault Operator",
-    "author": "Sebastian Hanke",
-    "description": "Real AI agent for your vault. Coworker, Copilot & thinking partner, that maintains your memory & knowledge, adapts to your workflows, uses plugins, skills & tools with full safety controls. BYOK & MCP - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "pssah4/vault-operator"
-  },
-  {
     "id": "yeelen-murmur",
     "name": "yeelen-Murmur",
     "author": "Yeelen",
@@ -28824,6 +28803,13 @@
     "author": "seeyou2night",
     "description": "Sync MoonReader reading notes via WebDAV and parse .an files directly into your Vault. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "seeyou2n1ght/obsidian-MoonReaderNoteSync"
+  },
+  {
+    "id": "meetings-plus",
+    "name": "Meetings Plus",
+    "author": "jabaho9523",
+    "description": "Subscribe to calendars and create pre-filled meeting notes in one click. No drag-and-drop, no Outlook required. ICS-based, privacy-first. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "jabaho9523/obsidian-meetings-plus"
   },
   {
     "id": "aibrowser-chat",
@@ -32674,13 +32660,6 @@
     "author": "vastea",
     "description": "Kanban, timeline and weekly-log views for tasks stored in your notes, powered by Bases. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "vastea/obsidian-task-manager-bases-view"
-  },
-  {
-    "id": "react-kanban",
-    "name": "React Kanban",
-    "author": "Marcel Reis-Soubkovsky",
-    "description": "A modern Kanban board for Obsidian that works with your existing Markdown boards. - This plugin has not been manually reviewed by Obsidian staff.",
-    "repo": "marcelrsoub/react-kanban"
   },
   {
     "id": "cyrillic-non-latin-tags",
@@ -41930,6 +41909,13 @@
     "repo": "polygonhunter/daily-bible-verse"
   },
   {
+    "id": "vaultbridge",
+    "name": "Vaultbridge",
+    "author": "wenzel1983",
+    "description": "End-to-end encrypted vault sync to your own CouchDB, with a conflict diff view, one-string setup, and mobile support. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "donnervs/vaultbridge"
+  },
+  {
     "id": "tcg-binder",
     "name": "TCG Binder",
     "author": "bgarciamoura",
@@ -42019,5 +42005,12 @@
     "author": "TAKESHI MORITA",
     "description": "Shared multi-model AI discussions for Obsidian AI plugins. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "takeshy/obsidian-discussion-hub"
+  },
+  {
+    "id": "extended-base",
+    "name": "Extended Base",
+    "author": "Lucy Roh",
+    "description": "An Extended Base view with column wrap, top-aligned cells, and transparent background. - This plugin has not been manually reviewed by Obsidian staff.",
+    "repo": "lucytheboss/extended-base"
   }
 ]
